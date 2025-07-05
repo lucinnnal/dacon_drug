@@ -1,0 +1,17 @@
+# ckpt
+scripts/ckpt/
+# data 
+src/data/data/
+
+# DS_Store files, pycaches, and other common ignores
+**/.DS_Store
+.DS_Store
+
+# **
+*.pyc
+*__pycache__/
+
+# Loggings & ckpt
+wandb/
+ckpt/
+*.pth
